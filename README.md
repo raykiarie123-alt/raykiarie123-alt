@@ -48,9 +48,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?raykiarie123-alt&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username = raykiarie123-alt&show_icons=true&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?raykiarie123-alt&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user = raykiarie123-alt&theme=radical&hide_border=true"/>
 </p>
 
 ---
